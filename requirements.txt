@@ -5,5 +5,5 @@ scipy
 matplotlib
 gunicorn
 jinja2
-Wrekzeug
+Werkzeug
 scikit-learn
